@@ -1,32 +1,38 @@
 # Example Company
-
+KickBack Rewards Systems
 ## Company blurb
 
-Insert a little bit about your company here.
+KickBack operates America's largest coalition loyalty program called “KickBack Points.” With our software solution and loyalty platform that integrates directly in to a merchants point-of-sale system a customer can earn points, valuable rewards and then spend their KickBack points like cash at convenience stores, grocers and major drug chains across the country. If you are looking for a mature and profitable organization that maintains an innovative atmosphere with a stable management team who likes to work hard and work smart we are likely a good fit.
 
 ## Company size
 
-An approximate size of your company. 0-20, 20-50, 50-100, 100-200, etc.
-
+KickBack Rewards Systems is a privately held company founded in 1999 that specializes in customer specific marketing and payments for over 1000 US clients.
 ## Remote status
 
-Explain a bit about your remote culture here.
+Competitive Salary
+Paid Holidays and Sick Leave.
+
+First-class development environments
+MacBook (or preferred computation unit).
+
+External Displays.
+
+Whiteboard desk and any other equipment you need.
+
+Healthcare and HSA
+401k plans
+Available to help all employees to help save for their retirement.
+
+Bonus Allowances
+$300 noise-canceling headphone allowance.
+
+$30 per month Amazon Kindle Store allowance.
+
+Ability to attend industry events and speak at them as an expert.
 
 ## Region
 
-Where are remote employees accepted? List either 1 country (eg **USA**), 1 region (eg **North America**), a list of multiple regions, or **Worldwide**.
-
-See the [UN Statistical Division's country codes](https://unstats.un.org/unsd/methodology/m49/) for a list of accepted countries.
-
-The list of accepted regions is based on the UN Statistical Division's region codes, on the same page:
-
-* Africa
-* Asia
-* Caribbean
-* Europe
-* Latin America
-* North America
-* Oceania (*this includes Australia*)
+Twin Falls' diverse outdoor recreation opportunities range from BASE jumping into the Snake River Canyon, whitewater rafting, fishing, hiking, biking and everything in between. Twin Falls also boasts a thriving agriculture-based economy, represented by both global corporations and small family farms, along with a well-supported school district and community college.
 
 ### Example region 1
 USA
@@ -45,8 +51,8 @@ Insert some of the technologies used in your company here.
 
 ## Office locations
 
-Insert your physical office locations here, if you have any.
+Boise, Idaho
 
 ## How to apply
 
-Insert a specific webpage, email, or instructions to apply.
+https://kickbackpoints.bamboohr.com/jobs/view.php?id=16
